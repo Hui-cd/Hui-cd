@@ -1,8 +1,10 @@
 ### The World is Ours
-<div style="display: flex; justify-content: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hui-cd&count_private=true&show_icons=true&theme=radical" width="400" height = "600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-cd&layout=compact" width="400" height = "600"/>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 - 🔭 I’m currently working on Deep Learning 
