@@ -5,5 +5,4 @@
 - 🔭 I’m currently working on Deep Learning 
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on NLP and CV
-- 📫 How to reach me: Email
--->
+- 📫 How to reach me: gyh1429107530@gmail.com
