@@ -1,5 +1,5 @@
 ### The World is Ours
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Hui-cd)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hui-cd&count_private=true&show_icons=true&theme=radical)
 
 
 - 🔭 I’m currently working on Deep Learning 
