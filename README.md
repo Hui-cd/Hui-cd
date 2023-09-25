@@ -1,7 +1,7 @@
 ### The World is Ours
 <div style="display: flex; justify-content: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hui-cd&count_private=true&show_icons=true&theme=radical" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-cd&layout=compact" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hui-cd&count_private=true&show_icons=true&theme=radical" width="400" height = "600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hui-cd&layout=compact" width="400" height = "600"/>
 </div>
 
 
