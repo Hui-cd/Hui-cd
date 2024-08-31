@@ -7,4 +7,5 @@
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on NLP and CV
 - 📫 How to reach me: gyh1429107530@gmail.com
+- 🔭 Here is my blog: https://hui-cd.github.io/
 - 💬 Ask me about anything [here](https://github.com/Hui-cd/Hui-cd/issues)
