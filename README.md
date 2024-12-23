@@ -30,7 +30,6 @@
 
 - **Languages**: Python, JavaScript, C++, Java
 - **Libraries/Frameworks**: TensorFlow, PyTorch, OpenCV, Keras, React
-- **Tools**: Docker, Git, VS Code, Jupyter, Android Studio, GitHub Actions
 - **Databases**: MySQL, MongoDB
 
 ---
