@@ -42,5 +42,4 @@
 
 ---
 
-### Let's connect and create something awesome! 🚀
 
